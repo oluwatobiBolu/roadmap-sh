@@ -36,3 +36,4 @@ Files:
 - Customize visual design in `style.css`.
 - Use a live server extension for faster dev feedback (vscode Live Server, etc.).
 https://roadmap.sh/projects/portfolio-website
+https://roadmap.sh/projects/basic-html-website
